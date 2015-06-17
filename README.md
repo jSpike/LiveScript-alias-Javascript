@@ -1,2 +1,2 @@
 # JavaScript-Simplified
-Basic javascript programs
+Basic javascript programs that uses different libraries.
